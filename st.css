@@ -35,12 +35,14 @@ header{
     display: flex;
     font-size: 30px;
     font-weight: 400;
+    margin:auto;
 }
 
 .items {
-    margin: 4px;
+   
     padding: 22px;
     font-size: 15px;
+    margin:auto;
 }
 
 
